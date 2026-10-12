@@ -180,6 +180,6 @@ java Main
 - Implement constructors that initialize the queue from an existing collection.
 - Consider shrinking the backing array when the queue becomes small.
 
-## 👨‍💻 Author - MD Gulam moinuddin
+## 👨‍💻 Author - MD Gulam Moinuddin
 
 Developed as a learning project to strengthen my understanding of Java data structures, generics, comparators, binary heaps, and dynamic array management.
